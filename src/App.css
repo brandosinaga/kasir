@@ -1,0 +1,107 @@
+*{
+                    margin: 0;
+                    padding: 0;
+                    box-sizing: border-box;
+}
+
+
+.HomePageLogin
+{
+                    height: 100vh;
+
+}
+
+
+.snapshot-info
+{
+
+                    height: 20vh;
+}
+
+
+.login-succes
+{
+
+                    min-height: 100vh;
+                    width: 100vw;
+                    position: relative;
+                   
+                                    
+}
+
+.navBar
+{
+
+                    
+                  
+                    position: sticky;
+                    z-index: 10;
+                    top: 0;
+                  
+                 
+}
+
+.content
+{
+                    height: 100%;
+                    overflow: scroll;
+                    
+                  
+                 
+}
+
+.transaksi
+{
+                  
+                    position: sticky;
+                    bottom: 0;
+                    z-index: 20;
+                   
+                   
+}
+
+.detail-laporan
+{
+                    background-color: rgb(252, 252, 252);
+                    font-size: 12px;
+                    font-family: 'Courier New', Courier, monospace;
+                    border: 1px solid black;
+                    border-style: dashed;
+                    
+}
+
+
+
+.signup-2, .signup-3, .success
+{
+                     
+                    opacity: 0; 
+                    transform: translateX(1000px);
+                    transition: all ease-in-out 1s;
+                  
+}
+
+.slide
+{
+                    height: 100%;
+                    width: 100%;
+}
+
+
+
+.products-card
+{
+
+                   
+                    position: relative;
+}
+
+
+.productCard_menu 
+{
+                    
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    
+}
